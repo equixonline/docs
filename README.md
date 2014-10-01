@@ -3,4 +3,4 @@ docs
 
 Equix Documentation
 
-* [Data-feed Requirements](https://github.com/equixonline/docs/wiki/Data-feed-Requirements)
+* [Data-Feed Requirements](https://github.com/equixonline/docs/wiki/EquiX-Data-Feed-Requirements)
